@@ -1,5 +1,5 @@
 # Yatzee-game-project
--A game with two Components a server and a client
+- A game with two Components a server and a client
 
 - The server keeps track of the score and who/ how many people are in the game
 
